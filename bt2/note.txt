@@ -1,0 +1,15 @@
+nhóm 1: Có thể VietNam Airline
+ + Trần Phúc Nguyên
+ + Nguyễn Quốc Anh
+Nhóm 2: Đề tài mp3
+ + Uyên
+Nhóm 3:  Web bán hàng PJN
+ + Nguyễn Thúc Nguyên
+ + Đăng
+Nhóm 4: 
+ + Nguyễn Hữu Anh Đức
+ + Trường
+ + Quang
+ * Tìm hiểu
+ Git 
+ Cấu trúc source một project
